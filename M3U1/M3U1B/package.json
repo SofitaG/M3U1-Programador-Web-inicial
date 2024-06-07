@@ -1,0 +1,16 @@
+{
+  "name": "m3u1b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofia",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "jquery": "^3.7.1",
+    "moment": "^2.30.1"
+  }
+}
